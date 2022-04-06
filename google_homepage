@@ -8,7 +8,7 @@
     
     <script>
         function search(){
-            console.log("rakesh");
+            console.log("Google");
             e.preventdefault;
             var t=document.getElementById("d");
             window.open("https://www.google.com/search?="+t);
